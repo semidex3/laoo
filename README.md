@@ -9,6 +9,9 @@ Liberation Army of Oydip
 
 # Master Info
 - [Non-Player Character](Non-Player%20Character)
+- [전리품](Shop/Root.md)
+- [상점](Shop/Shop.md)
+- [클래스 단계 상승](Shop/Class.md)
 
 # Player Info
 - [Player Character](Player%20Character)
