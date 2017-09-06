@@ -6,6 +6,7 @@ Liberation Army of Oydip
 - [몬스터 정보](Monster%20Info)
 - [종교](Religion)
 - [주문](Spells)
+- [세력](Factions)
 
 # Master Info
 - [Non-Player Character](Non-Player%20Character)
